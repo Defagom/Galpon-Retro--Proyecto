@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    background-image: url("img\retro.jpg");
+    background-image: url("../img/retro.jpg");
     background-size: contain;
     background-repeat:repeat;
     background-position: top center;
